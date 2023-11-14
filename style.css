@@ -1,0 +1,16 @@
+img {
+  width: 1000px;
+}
+
+body {
+  overflow: hidden;
+  cursor: url('scroll-cursor.png'), auto;
+}
+
+h1 {
+  position: relative;
+}
+
+img {
+  position: relative;
+}
